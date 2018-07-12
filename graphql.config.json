@@ -1,0 +1,10 @@
+{
+  "JS GraphQL IntelliJ Plugin": "Documentation - https://github.com/jimkyndemeyer/js-graphql-intellij-plugin",
+  "schema": {
+    "request": {
+      "url": "https://cunnectable.com:8080/graphql",
+      "method": "POST",
+      "postIntrospectionQuery": true
+    }
+  }
+}
